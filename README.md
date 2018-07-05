@@ -5,4 +5,4 @@
     ./build.sh
     hellowasm_server
 
-Open http://localhost:8080/console/
+Open http://localhost:8080/console/wasm_exec.html
