@@ -5,4 +5,13 @@
     ./build.sh
     hellowasm_server
 
-Open http://localhost:8080/console/wasm_exec.html
+/console/wasm_exec.html has also been split into two files:
+
+* wasm_main.js
+* index.html
+
+Thus these entry points are equivant:
+
+* http://localhost:8080/console/wasm_exec.html
+* http://localhost:8080/console/
+
