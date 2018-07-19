@@ -1,4 +1,4 @@
-Files donwloaded from:
+Files downloaded from:
 
 https://github.com/golang/go/tree/master/misc/wasm
 
